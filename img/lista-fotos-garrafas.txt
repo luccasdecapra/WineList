@@ -1,0 +1,278 @@
+LISTA DE FOTOS DAS GARRAFAS — Terrazza Duomo 21 Wine Guide
+============================================================
+
+Coloque cada foto na pasta  img/  com EXATAMENTE o nome indicado.
+Formato: .jpg  (fundo claro/branco fica melhor).  Recomendado: ~600px de altura.
+Onde não houver foto, o app mostra a garrafa estilizada automaticamente.
+
+
+── ESPUMANTES (18) ────────────────────────────────────────
+  Ca' Del Bosco — Annamaria Clementi 2014
+     → img/ca-del-bosco-annamaria-clementi-2014.jpg
+  Ca' Del Bosco — Vintage Collection Satèn 2018
+     → img/ca-del-bosco-vintage-collection-saten-2018.jpg
+  Ca' Del Bosco — Vintage Collection Dosage Zéro 2019
+     → img/ca-del-bosco-vintage-collection-dosage-zero-2019.jpg
+  Ca' Del Bosco — Cuvée Prestige Brut
+     → img/ca-del-bosco-cuvee-prestige-brut.jpg
+  Ca' Del Bosco — Cuvée Prestige Rosé
+     → img/ca-del-bosco-cuvee-prestige-rose.jpg
+  Bellavista — Cuvée Alma Brut
+     → img/bellavista-cuvee-alma-brut.jpg
+  Bellavista — Cuvée Alma non Dosato
+     → img/bellavista-cuvee-alma-non-dosato.jpg
+  Bellavista — Satèn 2019
+     → img/bellavista-saten-2019.jpg
+  Bellavista — Cuvée Alma Rosé
+     → img/bellavista-cuvee-alma-rose.jpg
+  Bellavista — Vittorio Moretti 2016
+     → img/bellavista-vittorio-moretti-2016.jpg
+  Contadi Castaldi — Brut
+     → img/contadi-castaldi-brut.jpg
+  Contadi Castaldi — Rosé
+     → img/contadi-castaldi-rose.jpg
+  Ferrari — Giulio Ferrari Riserva del Fondatore 2009
+     → img/ferrari-giulio-ferrari-riserva-del-fondatore-2009.jpg
+  Ferrari — Giulio Ferrari 2010 Rosé
+     → img/ferrari-giulio-ferrari-2010-rose.jpg
+  Ferrari — Maximum Blanc de Blancs
+     → img/ferrari-maximum-blanc-de-blancs.jpg
+  Biancavigna — Prosecco DOCG
+     → img/biancavigna-prosecco-docg.jpg
+  Bottega — DOC Brut Gold
+     → img/bottega-doc-brut-gold.jpg
+  Bottega — DOC Brut Rosé Gold
+     → img/bottega-doc-brut-rose-gold.jpg
+
+── CHAMPAGNES (23) ────────────────────────────────────────
+  Dom Pérignon — Vintage 2015
+     → img/dom-perignon-vintage-2015.jpg
+  Dom Pérignon — P2 2004 (Plénitude)
+     → img/dom-perignon-p2-2004-plenitude.jpg
+  Dom Pérignon — Vintage 2010 — Lady Gaga Ed.
+     → img/dom-perignon-vintage-2010-lady-gaga-ed.jpg
+  Dom Pérignon — Rosé 2009
+     → img/dom-perignon-rose-2009.jpg
+  Dom Pérignon — Luminous Collection
+     → img/dom-perignon-luminous-collection.jpg
+  Ruinart — R de Ruinart
+     → img/ruinart-r-de-ruinart.jpg
+  Ruinart — Blanc de Blancs
+     → img/ruinart-blanc-de-blancs.jpg
+  Ruinart — Rosé
+     → img/ruinart-rose.jpg
+  Krug — Grande Cuvée 172ème
+     → img/krug-grande-cuvee-172eme.jpg
+  Krug — Rosé 27ème édition
+     → img/krug-rose-27eme-edition.jpg
+  Moët & Chandon — Impérial Réserve
+     → img/moet-chandon-imperial-reserve.jpg
+  Moët & Chandon — Impérial Réserve Rosé
+     → img/moet-chandon-imperial-reserve-rose.jpg
+  Veuve Clicquot — Yellow Label Brut
+     → img/veuve-clicquot-yellow-label-brut.jpg
+  Veuve Clicquot — Rosé
+     → img/veuve-clicquot-rose.jpg
+  Veuve Clicquot — Rich
+     → img/veuve-clicquot-rich.jpg
+  Armand de Brignac — Brut Gold (Ace of Spades)
+     → img/armand-de-brignac-brut-gold-ace-of-spades.jpg
+  Armand de Brignac — Blanc de Blancs
+     → img/armand-de-brignac-blanc-de-blancs.jpg
+  Armand de Brignac — Brut Rosé
+     → img/armand-de-brignac-brut-rose.jpg
+  Louis Roederer — Cristal 2015
+     → img/louis-roederer-cristal-2015.jpg
+  Louis Roederer — Cristal Rosé 2012
+     → img/louis-roederer-cristal-rose-2012.jpg
+  Mumm — RSRV Brut Cuvée 4.5
+     → img/mumm-rsrv-brut-cuvee-4-5.jpg
+  Mumm — RSRV Blanc de Blancs 2014
+     → img/mumm-rsrv-blanc-de-blancs-2014.jpg
+  Mumm — RSRV Rosé
+     → img/mumm-rsrv-rose.jpg
+
+── BRANCOS (24) ────────────────────────────────────────
+  Ca' Del Bosco — Corte del Lupo Curtefranca Bianco 2023
+     → img/ca-del-bosco-corte-del-lupo-curtefranca-bianco-2023.jpg
+  La Spinetta — Derthona Timorasso 2022
+     → img/la-spinetta-derthona-timorasso-2022.jpg
+  Gaja — Gaja & Rey 2021
+     → img/gaja-gaja-rey-2021.jpg
+  Gaja — Rossj-Bass 2022
+     → img/gaja-rossj-bass-2022.jpg
+  La Scolca — Gavi dei Gavi (Etichetta Nera) 2023
+     → img/la-scolca-gavi-dei-gavi-etichetta-nera-2023.jpg
+  Ceretto — Blangè 2023
+     → img/ceretto-blange-2023.jpg
+  Tiefenbrunner — Pinot Grigio 2024
+     → img/tiefenbrunner-pinot-grigio-2024.jpg
+  Tiefenbrunner — Chardonnay 2024
+     → img/tiefenbrunner-chardonnay-2024.jpg
+  Cantina Terlano — Gewürztraminer 2023
+     → img/cantina-terlano-gewurztraminer-2023.jpg
+  Jermann — Vintage Tunina 2021
+     → img/jermann-vintage-tunina-2021.jpg
+  Jermann — Dreams 2021
+     → img/jermann-dreams-2021.jpg
+  Antinori · Castello della Sala — Cervaro della Sala 2022
+     → img/antinori-castello-della-sala-cervaro-della-sala-2022.jpg
+  Antinori · Castello della Sala — Conte della Vipera 2022
+     → img/antinori-castello-della-sala-conte-della-vipera-2022.jpg
+  Guido Marsella — Fiano di Avellino 2023
+     → img/guido-marsella-fiano-di-avellino-2023.jpg
+  Donnafugata — Anthìlia 2023
+     → img/donnafugata-anthilia-2023.jpg
+  Pietradolce — Etna Bianco 2023
+     → img/pietradolce-etna-bianco-2023.jpg
+  Capichera — VT Isola dei Nuraghi 2022
+     → img/capichera-vt-isola-dei-nuraghi-2022.jpg
+  Capichera — Capichera 2023
+     → img/capichera-capichera-2023.jpg
+  Albert Pic — Chablis Saint-Pierre 2023
+     → img/albert-pic-chablis-saint-pierre-2023.jpg
+  Louis Jadot — Bourgogne Blanc 2022
+     → img/louis-jadot-bourgogne-blanc-2022.jpg
+  De Ladoucette — Baron de L' 2020
+     → img/de-ladoucette-baron-de-l-2020.jpg
+  De Ladoucette — Pouilly-Fumé 2021
+     → img/de-ladoucette-pouilly-fume-2021.jpg
+  Von Winning — Riesling Trocken 2022
+     → img/von-winning-riesling-trocken-2022.jpg
+  Cloudy Bay — Sauvignon Blanc 2023
+     → img/cloudy-bay-sauvignon-blanc-2023.jpg
+
+── ROSÉS (3) ────────────────────────────────────────
+  Frescobaldi — Alie 2024
+     → img/frescobaldi-alie-2024.jpg
+  Antinori — Scalabrone Bolgheri Rosato 2024
+     → img/antinori-scalabrone-bolgheri-rosato-2024.jpg
+  Château d'Esclans — Whispering Angel Côtes de Provence 2023
+     → img/chateau-d-esclans-whispering-angel-cotes-de-provence-2023.jpg
+
+── TINTOS (55) ────────────────────────────────────────
+  Ca' Del Bosco — Corte del Lupo Rosso 2021
+     → img/ca-del-bosco-corte-del-lupo-rosso-2021.jpg
+  Ca' Del Bosco — Maurizio Zanella 2019
+     → img/ca-del-bosco-maurizio-zanella-2019.jpg
+  Ceretto — Nebbiolo d'Alba Bernardina 2022
+     → img/ceretto-nebbiolo-d-alba-bernardina-2022.jpg
+  Ceretto — Dolcetto d'Alba Rossana 2023
+     → img/ceretto-dolcetto-d-alba-rossana-2023.jpg
+  Ceretto — Barbaresco DOCG 2020
+     → img/ceretto-barbaresco-docg-2020.jpg
+  Ceretto — Barolo DOCG 2019
+     → img/ceretto-barolo-docg-2019.jpg
+  Gaja — Barbaresco DOCG 2017 / 2020
+     → img/gaja-barbaresco-docg-2017-2020.jpg
+  Gaja — Barolo Dragomis DOCG 2019
+     → img/gaja-barolo-dragomis-docg-2019.jpg
+  Gaja — Sito Moresco DOC 2022
+     → img/gaja-sito-moresco-doc-2022.jpg
+  La Spinetta — Barbaresco Gallina DOCG 2020
+     → img/la-spinetta-barbaresco-gallina-docg-2020.jpg
+  La Spinetta — Barbera d'Alba Gallina 2021
+     → img/la-spinetta-barbera-d-alba-gallina-2021.jpg
+  Sandrone — Barolo Le Vigne DOCG 2020
+     → img/sandrone-barolo-le-vigne-docg-2020.jpg
+  Sandrone — Nebbiolo d'Alba Valmaggiore 2022
+     → img/sandrone-nebbiolo-d-alba-valmaggiore-2022.jpg
+  Sandrone — Barbera d'Alba 2021
+     → img/sandrone-barbera-d-alba-2021.jpg
+  Masi — Amarone Costasera 2018/2019
+     → img/masi-amarone-costasera-2018-2019.jpg
+  Masi — Amarone Mazzano DOCG 2013
+     → img/masi-amarone-mazzano-docg-2013.jpg
+  Tommasi — Amarone De Buris 2008
+     → img/tommasi-amarone-de-buris-2008.jpg
+  Elena Walch — Lagrein Riserva Castel Ringberg 2022
+     → img/elena-walch-lagrein-riserva-castel-ringberg-2022.jpg
+  Frescobaldi — Lucente 2021
+     → img/frescobaldi-lucente-2021.jpg
+  Frescobaldi — Chianti Classico Perano 2021
+     → img/frescobaldi-chianti-classico-perano-2021.jpg
+  Ornellaia — Ornellaia 2021 / 2020
+     → img/ornellaia-ornellaia-2021-2020.jpg
+  Ornellaia — Le Volte dell'Ornellaia 2022
+     → img/ornellaia-le-volte-dell-ornellaia-2022.jpg
+  Ornellaia — Le Serre Nuove dell'Ornellaia 2021
+     → img/ornellaia-le-serre-nuove-dell-ornellaia-2021.jpg
+  Ornellaia — Masseto 2020
+     → img/ornellaia-masseto-2020.jpg
+  Ornellaia — Massetino 2021
+     → img/ornellaia-massetino-2021.jpg
+  San Guido — Sassicaia 2021
+     → img/san-guido-sassicaia-2021.jpg
+  San Guido — Guidalberto 2022
+     → img/san-guido-guidalberto-2022.jpg
+  San Guido — Le Difese 2022
+     → img/san-guido-le-difese-2022.jpg
+  Antinori — Tignanello 2021
+     → img/antinori-tignanello-2021.jpg
+  Antinori — Solaia 2020
+     → img/antinori-solaia-2020.jpg
+  Antinori — Guado al Tasso 2021
+     → img/antinori-guado-al-tasso-2021.jpg
+  Antinori · Pian delle Vigne — Brunello di Montalcino 2019
+     → img/antinori-pian-delle-vigne-brunello-di-montalcino-2019.jpg
+  Antinori — Il Bruciato 2022
+     → img/antinori-il-bruciato-2022.jpg
+  Biondi Santi — Brunello di Montalcino Riserva 2013
+     → img/biondi-santi-brunello-di-montalcino-riserva-2013.jpg
+  Gaja · Cà Marcanda — Promis 2022
+     → img/gaja-ca-marcanda-promis-2022.jpg
+  Tenuta Sette Ponti — Oreno 2021
+     → img/tenuta-sette-ponti-oreno-2021.jpg
+  Tenuta Sette Ponti — Orma 2021
+     → img/tenuta-sette-ponti-orma-2021.jpg
+  Tenuta Sette Ponti — Crognolo / Sette 2021
+     → img/tenuta-sette-ponti-crognolo-sette-2021.jpg
+  Lamole di Lamole — Chianti Classico Maggiolo 2021
+     → img/lamole-di-lamole-chianti-classico-maggiolo-2021.jpg
+  Sassoregale — Maremma Sangiovese 2022
+     → img/sassoregale-maremma-sangiovese-2022.jpg
+  La Valentina — Montepulciano d'Abruzzo Spelt 2019
+     → img/la-valentina-montepulciano-d-abruzzo-spelt-2019.jpg
+  Villa Raiano — Taurasi DOCG 2019
+     → img/villa-raiano-taurasi-docg-2019.jpg
+  Donnafugata — Mille e una Notte 2020
+     → img/donnafugata-mille-e-una-notte-2020.jpg
+  Donnafugata — Tancredi 2020 (Dolce & Gabbana ed.)
+     → img/donnafugata-tancredi-2020-dolce-gabbana-ed.jpg
+  Feudo Maccari — Saia 2021
+     → img/feudo-maccari-saia-2021.jpg
+  Pietradolce — Etna Rosso 2022
+     → img/pietradolce-etna-rosso-2022.jpg
+  Mesa — Gavino 2021
+     → img/mesa-gavino-2021.jpg
+  Mesa — Buio Buio 2021
+     → img/mesa-buio-buio-2021.jpg
+  Faiveley — Gevrey-Chambertin Clos des Issarts 1er Cru 2020
+     → img/faiveley-gevrey-chambertin-clos-des-issarts-1er-cru-2020.jpg
+  Faiveley — Nuits-Saint-Georges 1er Cru 2020
+     → img/faiveley-nuits-saint-georges-1er-cru-2020.jpg
+  Louis Jadot — Bourgogne Pinot Noir 2021
+     → img/louis-jadot-bourgogne-pinot-noir-2021.jpg
+  Médeville — Cru Monplaisir 2019
+     → img/medeville-cru-monplaisir-2019.jpg
+  Altos Las Hormigas — Malbec Reserva 2020
+     → img/altos-las-hormigas-malbec-reserva-2020.jpg
+  Cloudy Bay — Pinot Noir 2021
+     → img/cloudy-bay-pinot-noir-2021.jpg
+  De Loach — Zinfandel 2020
+     → img/de-loach-zinfandel-2020.jpg
+
+── SOBREMESAS (5) ────────────────────────────────────────
+  La Spinetta — Moscato d'Asti Bricco Quaglia 2023
+     → img/la-spinetta-moscato-d-asti-bricco-quaglia-2023.jpg
+  Antinori · Castello della Sala — Muffato della Sala 2019
+     → img/antinori-castello-della-sala-muffato-della-sala-2019.jpg
+  Donnafugata — Ben Ryé Passito di Pantelleria 2021 · 0,375L
+     → img/donnafugata-ben-rye-passito-di-pantelleria-2021-0-375l.jpg
+  Château Les Justices — Sauternes 2015
+     → img/chateau-les-justices-sauternes-2015.jpg
+  Tokaji — Aszú 5 Puttonyos 2017 · 0,5L
+     → img/tokaji-aszu-5-puttonyos-2017-0-5l.jpg
+
+============================================================
+TOTAL: 128 garrafas

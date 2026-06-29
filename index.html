@@ -482,7 +482,7 @@ function render(F){
     let imgsrc = w.img ? w.img : ('img/'+slug(w)+'.jpg');
     L.innerHTML += '<div class="card" data-i="'+WINES.indexOf(w)+'">'+
       '<div class="c-top">'+
-        '<div class="bottle">'+bottleSVG(w.cat,w.col)+'<img class="bottle-img" loading="lazy" alt="" src="'+imgsrc+'" onerror="this.remove()"></div>'+
+        '<div class="bottle">'+bottleSVG(w.cat,w.col)+'<img class="bottle-img" loading="lazy" alt="" src="'+imgsrc+'" onload="var s=this.previousElementSibling; if(s) s.style.display=\'none\'" onerror="this.remove()"></div>'+
         '<div class="c-head">'+
           '<div class="c-producer">'+w.pr+'</div>'+
           '<div class="c-name">'+w.nm+'</div>'+
@@ -548,7 +548,8 @@ function buildDetail(w){
   document.getElementById('dCat').textContent = t.categories[w.cat];
   document.getElementById('dBackTxt').textContent = t.back;
   let h = '';
-  h += '<div class="d-hero" style="--g:'+w.col+'"><div class="glow"></div><div class="bwrap">'+bottleSVG(w.cat,w.col)+'<img alt="" src="'+imgsrc+'" onerror="this.remove()"></div></div>';
+  const bottle = bottleSVG(w.cat,w.col);
+  h += '<div class="d-hero" style="--g:'+w.col+'"><div class="glow"></div><div class="bwrap" id="dHeroWrap">'+(w.img ? '<img alt="" src="'+imgsrc+'">' : bottle)+'</div></div>';
   h += '<div class="d-body">';
   h += '<div class="d-producer">'+w.pr+'</div>';
   h += '<div class="d-name">'+w.nm+'</div>';
@@ -563,6 +564,8 @@ function buildDetail(w){
   if(w.note) h += '<div class="d-note">'+w.note[LANG]+'</div>';
   h += '</div>';
   document.getElementById('detailBody').innerHTML = h;
+  const hw = document.getElementById('dHeroWrap');
+  if(w.img && hw){ const im = hw.querySelector('img'); if(im) im.onerror = function(){ hw.innerHTML = bottle; }; }
   detailEl.scrollTop = 0;
 }
 function openDetail(w){
